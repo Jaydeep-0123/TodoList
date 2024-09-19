@@ -1,0 +1,8 @@
+.nav{
+    text-align: initial;
+    background-color: rgba(var(--bs-dark-rgb))
+}
+.nav-link{
+    color: white;
+}
+

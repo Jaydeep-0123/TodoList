@@ -1,0 +1,29 @@
+input[type="text"],
+input[type="email"],
+input[type="password"]
+{
+    width: 50%;
+    margin-left: 25%;
+    padding: 6px;
+
+}
+label{
+    color: white;
+    margin: 12px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    border: 5px solid lightgray;
+    height: 530px;
+   margin-top: 15%;
+   margin-bottom: 14%;
+   border-radius: 40px;
+   background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/20698/300-PB1065137.jpg);
+}
+button{
+    width: 30%;
+    
+}
+

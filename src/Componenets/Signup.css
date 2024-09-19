@@ -1,0 +1,22 @@
+.container1{
+   border: 3px solid lightgray;
+   padding: 12px; 
+   margin: 8px;
+   margin-top: 150px;
+   margin-left: 23%;
+   height: 570px;
+   background-color:aqua;
+   margin-bottom: 120px;
+   border-radius: 20px;
+
+   
+}
+.Allclass{
+    
+}
+.lable{
+    color:slategrey;
+}
+h1{
+    text-decoration: underline;
+}
